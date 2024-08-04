@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.evgkirov.kbd</string>
+	<string>org.sil.ukelele.keyboardlayout.</string>
 	<key>CFBundleName</key>
-	<string>Layouts</string>
+	<string></string>
 	<key>CFBundleVersion</key>
-	<string>0.0</string>
+	<string></string>
 	<key>KLInfo_EN+SR</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
@@ -15,7 +15,7 @@
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>com.evgkirov.kbd.en+sr</string>
+		<string>org.sil.ukelele.keyboardlayout..en+sr</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
@@ -26,7 +26,7 @@
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>com.evgkirov.kbd.ru+sr</string>
+		<string>org.sil.ukelele.keyboardlayout..ru+sr</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
