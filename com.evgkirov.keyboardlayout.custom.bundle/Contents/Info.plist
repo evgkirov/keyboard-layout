@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.evgkirov.keyboardlayout.custom</string>
 	<key>CFBundleName</key>
-	<string>evgkirov’s Keyboard Layouts</string>
+	<string>com.evgkirov.keyboardlayout.custom</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_EN+SR</key>
